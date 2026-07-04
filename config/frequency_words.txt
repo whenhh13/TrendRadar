@@ -3,7 +3,6 @@
 标题党
 爆料
 
-科技
 ChatGPT
 大模型
 DeepSeek
@@ -28,44 +27,47 @@ A股
 美联储
 加息
 降息
-比特币
-以太坊
-黄金
-油价
-人民币
-美元
 +涨跌
 !预测
+@10
 
 字节
 bytedance
 张一鸣
+@2
 
 特斯拉
 马斯克
+@2
 
 微软
 Microsoft
+@2
 
 英伟达
 NVIDIA
 黄仁勋
+@2
 
 谷歌
 google
 gemini
 deepmind
+@2
 
 亚马逊
 amazon
 aws
+@5
 
 chatgpt
 openai
 sora
+@2
 
 claude
 Anthropic
+@2
 
 国产
 中国
@@ -73,6 +75,7 @@ Anthropic
 央行
 +政策
 +发布
+@15
 
 美国
 俄罗斯
@@ -84,3 +87,4 @@ Anthropic
 以色列
 +制裁
 +谈判
+@15
