@@ -1,8 +1,3 @@
-[GLOBAL_FILTER]
-震惊
-标题党
-爆料
-
 ChatGPT
 大模型
 DeepSeek
