@@ -4,18 +4,18 @@
 !培训
 !手机
 !二手
-@5
+@2
 
 芯片
 半导体
 +突破
 +制裁
 !价格
-@5
+@2
 
 A股
 美股
-@5
+@3
 
 美联储
 FED
@@ -49,10 +49,10 @@ deepmind
 
 亚马逊
 !雨林
-@5
+@2
 
 AWS
-@5
+@2
 
 chatgpt
 openai
@@ -68,6 +68,7 @@ Anthropic
 中国
 China
 央行
+@10
 
 美国
 U.S
@@ -84,40 +85,40 @@ Vance
 乌克兰
 russia
 ukraine
-@5
+@3
 
 欧盟
 EU
-@5
+@3
 
 日本
 Jappan
-@5
+@3
 
 韩国
 Korea
-@5
+@3
 
 中东
 Middle East
-@5
+@3
 
 以色列
 Israel
-@5
+@3
 
 伊朗
 iran
-@5
+@3
 
 世界杯
-@5
+@3
 
 电影
 票房
 Movie
-@5
+@3
 
 天气
 Weather
-@5
+@3
