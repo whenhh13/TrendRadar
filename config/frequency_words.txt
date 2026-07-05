@@ -18,6 +18,8 @@ A股
 @5
 
 美联储
+FED
+FRB
 @5
 
 字节
@@ -27,6 +29,7 @@ bytedance
 
 特斯拉
 马斯克
+Musk
 @2
 
 微软
@@ -60,38 +63,51 @@ claude
 Anthropic
 @2
 
+国内
 国务院
-+政策
-+发布
-
+中国
+China
 央行
-+政策
-+发布
 
 美国
-美
+U.S
+US
+@10
+
+特朗普
+万斯
+Trump
+Vance
 @5
 
 俄罗斯
 乌克兰
+russia
+ukraine
 @5
 
 欧盟
+EU
 @5
 
 日本
+Jappan
 @5
 
 韩国
+Korea
 @5
 
 中东
+Middle East
 @5
 
 以色列
+Israel
 @5
 
 伊朗
+iran
 @5
 
 世界杯
@@ -99,7 +115,9 @@ Anthropic
 
 电影
 票房
+Movie
 @5
 
 天气
+Weather
 @5
