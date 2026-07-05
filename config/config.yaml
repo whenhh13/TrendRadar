@@ -186,3 +186,7 @@ platforms:
     name: "财联社 深度"
   - id: "zhihu"
     name: "知乎"
+  - id: "cankaoxiaoxi"
+    name: "参考消息"
+  - id: "mktnews-flash"
+    name: "MKTNews"
